@@ -1,0 +1,12 @@
+name: MusicalGuess
+author: Zeryther
+website: https://thechest.eu
+version: 1.0
+main: eu.thechest.musicalguess.MusicalGuess
+depend: [ChestAPI,NoteBlockAPI,HolographicDisplays]
+
+commands:
+  setspawn:
+    description: Set spawning location
+  start:
+    description: Start game
